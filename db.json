@@ -1,51 +1,51 @@
-{
-  "transacciones": [
+[{
+        "id": 1,
+        "nombre": "Pedro Perez",
+        "monto": ""
+    },
     {
-      "id": 1,
-      "nombre": "Pedro Perez",
-      "monto": "0.01"
-
+        "id": 2,
+        "nombre": "Juan Gonzlez",
+        "monto": ""
+    },
+    {
+        "id": 3,
+        "nombre": "",
+        "monto": ""
+    },
+    {
+        "id": 4,
+        "nombre": "",
+        "monto": ""
+    },
+    {
+        "id": 5,
+        "nombre": "",
+        "monto": ""
+    },
+    {
+        "id": 6,
+        "nombre": "",
+        "monto": ""
+    },
+    {
+        "id": 7,
+        "nombre": "",
+        "monto": ""
+    },
+    {
+        "id": 8,
+        "nombre": "",
+        "monto": ""
+    },
+    {
+        "id": 9,
+        "nombre": "",
+        "monto": ""
+    },
+    {
+        "id": 10,
+        "nombre": "",
+        "monto": ""
     }
-        {
-      "id": 2,
-      "nombre": "",
-      "monto":""
-
-    }
-    
-        {
-      "id": 3,
-      "nombre":"",
-      "monto":""
-
-    }
-    
-        {
-      "id": 4,
-      "nombre":"",
-      "monto":""
-
-    }
-    
-        {
-      "id": 5,
-      "nombre":"",
-      "monto":""
-
-    }
-    
-        {
-      "id": 6,
-      "nombre":"",
-      "monto":""
-
-    }
-    
-        {
-      "id": 7,
-      "nombre":"",
-      "monto":""
-
-    }
-  ],
- 
+]
