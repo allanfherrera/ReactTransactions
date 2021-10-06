@@ -18,34 +18,5 @@
         "nombre": "",
         "monto": ""
     },
-    {
-        "id": 5,
-        "nombre": "",
-        "monto": ""
-    },
-    {
-        "id": 6,
-        "nombre": "",
-        "monto": ""
-    },
-    {
-        "id": 7,
-        "nombre": "",
-        "monto": ""
-    },
-    {
-        "id": 8,
-        "nombre": "",
-        "monto": ""
-    },
-    {
-        "id": 9,
-        "nombre": "",
-        "monto": ""
-    },
-    {
-        "id": 10,
-        "nombre": "",
-        "monto": ""
-    }
+
 ]
