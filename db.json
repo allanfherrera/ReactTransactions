@@ -1,22 +1,27 @@
-[{
-        "id": 1,
-        "nombre": "Pedro Perez",
-        "monto": ""
-    },
-    {
-        "id": 2,
-        "nombre": "Juan Gonzlez",
-        "monto": ""
-    },
-    {
-        "id": 3,
-        "nombre": "",
-        "monto": ""
-    },
-    {
-        "id": 4,
-        "nombre": "",
-        "monto": ""
-    },
-
+[
+  {
+    "id": 1,
+    "nombre": "Pedro Perez",
+    "monto": "0.50"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan Gonzlez",
+    "monto": "2.75"
+  },
+  {
+    "id": 3,
+    "nombre": "Manuel Delgado",
+    "monto": "3.15"
+  },
+  {
+    "id": 4,
+    "nombre": "Alfonso Martinez",
+    "monto": "21.49"
+  },
+  {
+    "id": 5,
+    "nombre": "Luisa De La O",
+    "monto": "5.00"
+  }
 ]
