@@ -3,48 +3,48 @@
     {
       "id": 1,
       "nombre": "Pedro Perez",
-      "monto": "0.01",
+      "monto": "0.01"
 
     }
         {
       "id": 2,
       "nombre": "",
-      "monto":"",
+      "monto":""
 
     }
     
         {
       "id": 3,
       "nombre":"",
-      "monto":"",
+      "monto":""
 
     }
     
         {
       "id": 4,
       "nombre":"",
-      "monto":"",
+      "monto":""
 
     }
     
         {
       "id": 5,
       "nombre":"",
-      "monto":"",
+      "monto":""
 
     }
     
         {
       "id": 6,
       "nombre":"",
-      "monto":"",
+      "monto":""
 
     }
     
         {
       "id": 7,
       "nombre":"",
-      "monto":"",
+      "monto":""
 
     }
   ],
