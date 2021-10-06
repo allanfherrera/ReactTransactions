@@ -2,49 +2,49 @@
   "transacciones": [
     {
       "id": 1,
-      "nombre": "Pedro Perez"
-      "monto": "0.01"
+      "nombre": "Pedro Perez",
+      "monto": "0.01",
 
     }
         {
       "id": 2,
-      "nombre":""
-      "monto":""
+      "nombre": "",
+      "monto":"",
 
     }
-    }
+    
         {
       "id": 3,
-      "nombre":""
-      "monto":""
+      "nombre":"",
+      "monto":"",
 
     }
-    }
+    
         {
       "id": 4,
-      "nombre":""
-      "monto":""
+      "nombre":"",
+      "monto":"",
 
     }
-    }
+    
         {
       "id": 5,
-      "nombre":""
-      "monto":""
+      "nombre":"",
+      "monto":"",
 
     }
-    }
+    
         {
       "id": 6,
-      "nombre":""
-      "monto":""
+      "nombre":"",
+      "monto":"",
 
     }
-    }
+    
         {
       "id": 7,
-      "nombre":""
-      "monto":""
+      "nombre":"",
+      "monto":"",
 
     }
   ],
