@@ -3,13 +3,48 @@
     {
       "id": 1,
       "nombre": ""
-      "monto" : ""
+      "monto": ""
 
     }
         {
       "id": 2,
-      "nombre": ""
-      "monto": ""
+      "nombre":""
+      "monto":""
+
+    }
+    }
+        {
+      "id": 3,
+      "nombre":""
+      "monto":""
+
+    }
+    }
+        {
+      "id": 4,
+      "nombre":""
+      "monto":""
+
+    }
+    }
+        {
+      "id": 5,
+      "nombre":""
+      "monto":""
+
+    }
+    }
+        {
+      "id": 6,
+      "nombre":""
+      "monto":""
+
+    }
+    }
+        {
+      "id": 7,
+      "nombre":""
+      "monto":""
 
     }
   ],
