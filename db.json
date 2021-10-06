@@ -3,27 +3,52 @@
     {
       "id": 1,
       "nombre": "Pedro Perez",
-      "monto": ""
+      "monto": "0.50"
     },
     {
       "id": 2,
       "nombre": "Juan Gonzalez",
-      "monto": ""
+      "monto": "20.00"
     },
     {
       "id": 3,
-      "nombre": "",
-      "monto": ""
+      "nombre": "Manuel Delgado",
+      "monto": "0.75"
     },
     {
       "id": 4,
-      "nombre": "",
-      "monto": ""
+      "nombre": "Luisa de La O",
+      "monto": "3.75"
     },
     {
       "id": 5,
-      "nombre": "",
-      "monto": ""
+      "nombre": "Luis Fernando Suazo",
+      "monto": "0.60"
+    },
+        {
+      "id": 6,
+      "nombre": "Luis Suarez",
+      "monto": "3.70"
+    },
+        {
+      "id": 7,
+      "nombre": "Gloria Estrada",
+      "monto": "3.50
+    },
+        {
+      "id": 8,
+      "nombre": "Lucas Vasquuz",
+      "monto": "13.75"
+    },
+        {
+      "id": 9,
+      "nombre": "Luisa de La O",
+      "monto": "40.00"
+    },
+        {
+      "id": 10,
+      "nombre": "Jose Graciano",
+      "monto": "5.40"
     }
   ]
 }
